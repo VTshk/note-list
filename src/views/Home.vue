@@ -37,7 +37,7 @@
     </div>
     <Modal
       :message="message"
-      :actions="() => action()"
+      :action="() => action()"
       v-if="dialog"
       @closeDialog="dialog = $event"
     />

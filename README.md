@@ -1,5 +1,7 @@
 # note-list
 
+view: https://vt-note-list.netlify.com
+
 ## Project setup
 ```
 npm install
