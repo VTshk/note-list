@@ -1,5 +1,5 @@
 # note-list
-view: https://vt-note-list.netlify.com
+Demo: https://vt-note-list.netlify.com
 
 ## Project setup
 ```
