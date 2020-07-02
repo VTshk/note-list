@@ -1,5 +1,4 @@
 # note-list
-task description: https://docs.google.com/document/d/1jRzH6JGPmc8zJuimjG6IsYPzmm-v_6UsoVd4KQui0DY/edit?usp=sharing
 view: https://vt-note-list.netlify.com
 
 ## Project setup
